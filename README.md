@@ -23,3 +23,5 @@
 </div>
 
 https://calculdadora-penal.netlify.app/
+
+(https://lojafantasiawilly.netlify.app/)
